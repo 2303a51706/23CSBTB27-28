@@ -7,6 +7,8 @@ https://github.com/2303a51706/23CSBTB27-28/blob/main/titanic_logistic_regression
 
 https://github.com/2303a51706/23CSBTB27-28/blob/main/Housing.ipynb
 
+https://github.com/2303a51706/23CSBTB27-28/blob/main/Classified_Data.ipynb
+
 
 
 
