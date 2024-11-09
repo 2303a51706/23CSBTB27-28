@@ -13,6 +13,8 @@ https://github.com/2303a51706/23CSBTB27-28/blob/main/Types_of_List.ipynb
 
 https://github.com/2303a51706/23CSBTB27-28/blob/main/SVM.ipynb
 
+https://github.com/2303a51706/23CSBTB27-28/blob/main/DecisionTree.ipynb
+
 
 
 
