@@ -15,6 +15,8 @@ https://github.com/2303a51706/23CSBTB27-28/blob/main/SVM.ipynb
 
 https://github.com/2303a51706/23CSBTB27-28/blob/main/DecisionTree.ipynb
 
+https://github.com/2303a51706/23CSBTB27-28/blob/main/random_forests.ipynb
+
 
 
 
